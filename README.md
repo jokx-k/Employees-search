@@ -4,7 +4,7 @@ This Android app allows users to search for employees in a database by their nam
 
 ## How to Use
 
-1. Clone the repository:
+- Clone the repository:
    ```bash
    git clone https://github.com/jokx-k/Employees-search.git
 
