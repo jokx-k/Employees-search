@@ -14,9 +14,13 @@ This Android app allows users to search for employees in a database by their nam
 Try searching for the following names:
 
 Jokx
+
 Abdelrahman
+
 Omar
+
 Ezz
+
 The app should display the search results.
 
 ## Code Overview
